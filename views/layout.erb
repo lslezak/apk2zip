@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>
+      <%= erb :_title %>
+    </title>
+    <style>
+      body { background: #ffffb3; }
+    </style>
+  </head>
+  <body>
+    <div id="main">
+      <%= yield %>
+    </div>
+  </body>
+  <p></p>
+  <footer style="color: grey">
+    <small>(v0.1, 2016-09-25)</small>
+  </footer>
+</html>
