@@ -47,7 +47,7 @@ To test the web application locally run
 bundle exec rackup config.ru
 ```
 
-ans connect to this URL: [http://localhost:9292](http://localhost:9292)
+and connect to this URL: [http://localhost:9292](http://localhost:9292)
 
 ### Unpacking the ZIP File
 
