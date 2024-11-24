@@ -1,5 +1,8 @@
 # MSTS Activity to ZIP Converter
 
+> [!NOTE]
+> Obsolete repository, a newer implementation is available at https://github.com/lslezak/msts2zip
+
 This is a converter for the Microsoft Train Simulator (MSTS) APK activity files.
 It can convert the APK files to the more commonly used ZIP format.
 
